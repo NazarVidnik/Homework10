@@ -2,7 +2,7 @@ package part2;
 
 public class Assignment10Part2Main {
     public static void main(String[] args) {
-        // 1. Demonstrate a static variable.
+        // 1 Demonstrate a static variable.
 
         // Access the static variable using the class name.
         MyClass.staticVar = 5;
